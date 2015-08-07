@@ -206,7 +206,7 @@ function project()
 					    ctx.restore();
 					    time+=0.1;
 					
-						v0x = v0x*windFactorX;
+						//v0x = v0x*windFactorX;
 						//v0y = v0y*windFactorY;
 						
 						if(rebound==1)
